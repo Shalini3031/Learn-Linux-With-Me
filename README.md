@@ -5,6 +5,9 @@ Welcome to my Linux learning journey!
 This repository is where I document my daily progress, notes, and experiments with Linux.  
 Whether it’s mastering the basics, exploring system internals, or experimenting with commands — it’s all logged here.
 
+I’m learning Linux on **Red Hat Enterprise Linux (RHEL)** 🐧💻.  
+All commands and examples in this repo are based on Red Hat.
+
 ---
 
 ## 🌟 Why This Repo?
